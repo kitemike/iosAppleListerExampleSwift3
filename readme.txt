@@ -1,4 +1,4 @@
-=== Setup ===
+=== Setup === 
 
 1. Add your ID to project file. Replace the AppConfiguration.AppBundle.prefix with your ID
 2. Select "iPhone 6 Plus" to view SplitViewController master/detail views
@@ -14,6 +14,10 @@ Main objectives:
 3. Remove all non-essential code to ease understanding. This minimal example is fairly sophisticated and complex.
 4. Illustrate an iPhone SplitViewController with master/detail views
 5. Extensive GCD async implementations with new Swift 3 DispatchObject classes
+
+For a detailed explanation visit:
+
+ https://www.icloud.com/pages/0VyMBYu3g_hcwB26RcwQGo9ug#Apple_Lister_Example_in_Swift_3 
 
 === Limitations ===
 
