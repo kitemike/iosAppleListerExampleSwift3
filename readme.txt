@@ -1,19 +1,19 @@
 === Setup ===
 
 1. Add your ID to project file. Replace the AppConfiguration.AppBundle.prefix with your ID
-2. Three files should display when the app is run
-4. Select iPhone 6 Plus to view SplitViewController master/detail views
+2. Select "iPhone 6 Plus" to view SplitViewController master/detail views
 ——  To run on a device, change AppConfiguration.isSimulator to false
-5. Rotate simulator to landscape for master/detail views
+3. Rotate simulator to landscape for master/detail views
+4. Three files should display when the app is run
 
 === Purpose ===
 
 Main objectives:
 1. Present files located in iPhone Documents directory to user using GCD DirectoryMonitor
 2. Present and edit UIDocument to user as a List protocol
-3. Remove all non-essential code to ease understanding. This minimal example is very complex.
+3. Remove all non-essential code to ease understanding. This minimal example is fairly sophisticated and complex.
 4. Illustrate an iPhone SplitViewController with master/detail views
-5. Extensive GCD implementations with Swift 3 DispatchObject
+5. Extensive GCD async implementations with new Swift 3 DispatchObject classes
 
 === Limitations ===
 
