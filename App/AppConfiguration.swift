@@ -24,7 +24,7 @@ import Foundation
      */
     private struct AppBundle {
         //        static var prefix = Bundle.main.object(forInfoDictionaryKey: "AAPLListerBundlePrefix") as! String
-        static var prefix = "com.visualjudgment.BetterAtLife" // replace with your ID
+        static var prefix = "com.visualjudgment.BetterAtLife" // replace with your ID AppConfiguration.AppBundle.prefix
     }
 
     enum Storage: Int {
